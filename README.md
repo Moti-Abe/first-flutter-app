@@ -19,15 +19,27 @@ This project uses:
 - **Dart** — Programming language optimized for apps
 - _(Add more libraries and packages here once you start using them!)_
 
-## Getting Started
+## 🚀 Getting Started
 
-To get started with this project, clone the repository and run the app using your preferred Flutter environment.
+These instructions will get you a copy of the project up and running on your local machine.
+
+### 📋 Prerequisites
+
+Make sure you have the following installed:
+
+- Flutter SDK (latest stable version)
+- Android Studio, VS Code, or another Dart/Flutter IDE
+- Connected device or emulator for testing
+
+👉 If you don’t have Flutter installed yet, follow the official guide:  
+https://flutter.dev/docs/get-started/install
 
 Contact
 
 Email: motiabe8@gmail.com
 
 Phone: +251 992172455
+
 
 
 
