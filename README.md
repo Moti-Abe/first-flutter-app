@@ -77,7 +77,13 @@ https://flutter.dev/docs/get-started/install
 3. Get dependencies  --> flutter pub get
 4. Run the app --> flutter run
 
+## Contact
 
+Made with ❤️ by Moti Abe
+
+✉️ Email: motiabe8@gmail.com
+
+📱 Phone: +251 992172455
 
 
 
