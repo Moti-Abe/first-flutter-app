@@ -11,13 +11,7 @@ Welcome to my first Flutter project!
 - Ready for future feature expansions
 - Supports Android, iOS, web, and desktop (Windows / macOS / Linux)
 
-## 🛠️ Built With
 
-This project uses:
-
-- **Flutter** — UI toolkit for building natively compiled applications
-- **Dart** — Programming language optimized for apps
-- _(Add more libraries and packages here once you start using them!)_
 
 ## 🚀 Getting Started
 
@@ -79,6 +73,7 @@ Made with ❤️ by Moti Abe
 ✉️ Email: motiabe8@gmail.com
 
 📱 Phone: +251 992172455
+
 
 
 
