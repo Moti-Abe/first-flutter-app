@@ -40,12 +40,7 @@ https://flutter.dev/docs/get-started/install
 
 **Moti-flutter-app** is my first Flutter mobile application — built as part of my journey into mobile development using Flutter and Dart. This project explores the fundamentals of building cross-platform apps with Flutter, including UI creation, navigation, and basic app structure.
 
-## 📌 Features
 
-- Basic Flutter setup for a cross-platform app
-- Exploration of Dart language and Flutter widgets
-- Ready for future feature expansions
-- Supports Android, iOS, web, and desktop (Windows / macOS / Linux)
 
 ## 🛠️ Built With
 
@@ -84,6 +79,7 @@ Made with ❤️ by Moti Abe
 ✉️ Email: motiabe8@gmail.com
 
 📱 Phone: +251 992172455
+
 
 
 
